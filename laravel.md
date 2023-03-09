@@ -54,3 +54,4 @@
 
 ### COMPOSER JSON
     - git init -> git add . ->(stages Changes)
+    - git commit -m "let begin"
